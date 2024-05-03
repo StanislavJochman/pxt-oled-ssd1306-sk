@@ -1,14 +1,14 @@
 {
-  "OLED.clear|block": "清除显示",
-  "OLED.drawLine|block": "画线条 起点:|x: $x0 y: $y0 终点| x: $x1 y: $y1",
-  "OLED.drawLoading|block": "显示进度条 $percent %",
-  "OLED.drawRectangle|block": "绘制矩形 起点:|x: $x0 y: $y0 终点| x: $x1 y: $y1",
-  "OLED.init|block": "OLED 初始化 宽 %width 高 %height",
-  "OLED.newLine|block": "新行",
-  "OLED.writeNumNewLine|block": "显示数字 $n",
-  "OLED.writeNum|block": "新行显示数字 $n",
-  "OLED.writeStringNewLine|block": "新行显示字符串 $str",
-  "OLED.writeString|block": "显示字符串 $str",
-  "{id:category}Math": "Math",
-  "{id:category}OLED": "OLED"
+    "OLED.clear|block": "Vyčistiť displej",
+    "OLED.drawLine|block": "Nakresliť čiaru Začiatok:|x: $x0 y: $y0 Koniec| x: $x1 y: $y1",
+    "OLED.drawLoading|block": "Zobraziť načítanie $percent %",
+    "OLED.drawRectangle|block": "Nakresliť obdĺžnik Začiatok:|x: $x0 y: $y0 Koniec| x: $x1 y: $y1",
+    "OLED.init|block": "Inicializácia OLED Šírka %width Výška %height",
+    "OLED.newLine|block": "Nový riadok",
+    "OLED.writeNumNewLine|block": "Zobraziť číslo $n na novom riadku",
+    "OLED.writeNum|block": "Zobraziť číslo $n",
+    "OLED.writeStringNewLine|block": "Zobraziť reťazec $str na novom riadku",
+    "OLED.writeString|block": "Zobraziť reťazec $str",
+    "{id:category}Math": "Matematika",
+    "{id:category}OLED": "OLED"
 }
